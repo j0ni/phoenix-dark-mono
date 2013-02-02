@@ -9,7 +9,7 @@
 ;; Code:
 
 (deftheme phoenix-dark-mono
-  "Created 2012-11-18.")
+  "Phoenix Dark Mono color theme")
 
 (custom-theme-set-faces
  'phoenix-dark-pink
