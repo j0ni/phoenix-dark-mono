@@ -1,3 +1,13 @@
+;;; phoenix-dark-mono-theme.el --- Monochromatic version of the Phoenix theme
+
+;; Copyright 2013 J Irving
+
+;; Author: J Irving <j@lollyshouse.ca>
+;; URL: http://github.com/j0ni/phoenix-dark-mono
+;; Version: 1.0
+
+;; Code:
+
 (deftheme phoenix-dark-mono
   "Created 2012-11-18.")
 
@@ -151,3 +161,5 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'phoenix-dark-mono)
+
+;;; phoenix-dark-mono-theme.el ends here
