@@ -12,7 +12,7 @@
   "Phoenix Dark Mono color theme")
 
 (custom-theme-set-faces
- 'phoenix-dark-pink
+ 'phoenix-dark-mono
  '(default ((t (:inherit nil :stipple nil :background "#101010" :foreground "#ccc" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 120 :width normal :foundry "apple" :family "PragmataPro"))))
  '(cursor ((t (:background "#ccc" :foreground "#101010" :underline nil :weight normal))))
  '(fixed-pitch ((t (:underline nil :weight normal :family "PragmataPro"))))
